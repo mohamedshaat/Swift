@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.3.0)
+  - DGElasticPullToRefresh (1.1)
+  - EZLoadingActivity (1.01)
+  - Kingfisher (3.3.3)
+  - ObjectMapper (2.2.2)
+  - SDCAlertView (7.1)
+  - SlideMenuControllerSwift (3.0.1)
+  - SwiftMessages (3.1.5)
+  - UIScrollView-InfiniteScroll (1.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - DGElasticPullToRefresh
+  - EZLoadingActivity
+  - Kingfisher (~> 3.0)
+  - ObjectMapper (~> 2.2)
+  - SDCAlertView (~> 7.1)
+  - SlideMenuControllerSwift
+  - SwiftMessages
+  - UIScrollView-InfiniteScroll
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  DGElasticPullToRefresh: 28f11a6026302a90f8ffebbc6e24748e584dddd3
+  EZLoadingActivity: edd7e387e5197b116ce2cccb3fd747ababc2a510
+  Kingfisher: 893215a42e5c2164e916f69463c68003092b104c
+  ObjectMapper: 9e385c2295bcc4e16eabbcfc85db801442bba545
+  SDCAlertView: b92fd1f00e522e18a062005e15a16c1e8295c5b5
+  SlideMenuControllerSwift: 9a163b16d54afab734add42858cba7ef7c307755
+  SwiftMessages: bb85d7c30e85256f9367214b0907e1f409e1870a
+  UIScrollView-InfiniteScroll: d26885be71caca7485cdb37eab513a8f89036bb0
+
+PODFILE CHECKSUM: b5a0ddcf1508a20f3d1410c0d99b819b8c0f1621
+
+COCOAPODS: 1.0.1

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ar_signin_title</key>
+	<string>تسجيل الدخول</string>
+	<key>en_signin_title</key>
+	<string>signin</string>
+	<key>ar_changelang</key>
+	<string>تغيير اللغة</string>
+	<key>en_changelang</key>
+	<string>change langugae</string>
+	<key>ar_gomenu</key>
+	<string>goMenu</string>
+	<key>en_gomenu</key>
+	<string>القاذمه الجانبية</string>
+</dict>
+</plist>
